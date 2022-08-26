@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhkhatwase
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Predicting
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking job for Data Analyst
 - 📫 How to reach me ...
 
 <!---
