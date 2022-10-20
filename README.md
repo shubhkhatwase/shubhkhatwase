@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhkhatwase
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine learning Algorithem imolimentaion in the machine learning model,Analytics,Forcasting,Predicting
+- 🌱 I’m currently learning Machine learning Algorithem implimentaion in the machine learning model,Analytics,Forcasting,Predicting
 - 💞️ I’m looking job for Data Scientist Intern or Data Analytics
 - 📫 How to reach me ...
 
